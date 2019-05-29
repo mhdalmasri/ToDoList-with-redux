@@ -25,6 +25,7 @@
     "not op_mini all"
   ],
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react-scripts": "^3.0.1"
   }
 }
