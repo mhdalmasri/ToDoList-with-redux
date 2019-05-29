@@ -23,7 +23,7 @@ body {
 
 .todo-item {
   &:hover {
-    background-color: #efefef;
+    background-color: #f1bbbb;
   }
 
   td {
@@ -47,12 +47,12 @@ body {
     padding-right: 0.25rem;
 
     .icon-remove {
-      color: #c0c0c0;
+      color: #000000;
       cursor: pointer;
       padding: 0 0.25rem;
 
       &:hover {
-        color: #bd2d2d;
+        color: red;
       }
     }
   }
