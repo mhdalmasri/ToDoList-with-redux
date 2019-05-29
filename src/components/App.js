@@ -3,14 +3,28 @@ import Header from "./Header";
 import ToDoForm from "./ToDoForm";
 import ToDoList from "./ToDoList";
 import uuid from "uuid/v4";
+import Storage from "../modules/Storage";
 
 class App extends React.Component {
   constructor(props) {
     super(props);
 
-    this.state = {
-      toDoItems: {}
-    };
+    this.storageKey = "react-todo";
+    const old = Storage.get(this.storageKey);
+
+    if (old) {
+      this.state = JSON.parse(old);
+    } else {
+      this.state = {
+        toDoItems: {}
+      };
+
+      Storage.set(this.storageKey, JSON.stringify(this.state));
+    }
+  }
+
+  componentDidUpdate() {
+    Storage.set(this.storageKey, JSON.stringify(this.state));
   }
 
   addToDo = text => {
