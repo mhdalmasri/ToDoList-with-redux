@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="container">
-        <Header tagline="This could be your shopping list." />
+        <Header tagline="Here are all the next tasks." />
         <ToDoList />
       </div>
     );
