@@ -1,8 +1,11 @@
 {
+  "homepage": "https://github.com/mhdalmasri/ToDoList-with-redux",
   "name": "react-todo",
   "version": "1.0.0",
   "description": "A todo application using the basics of React and Redux",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject"

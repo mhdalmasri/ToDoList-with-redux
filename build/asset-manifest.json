@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mhdalmasri/ToDoList-with-redux/static/css/main.2abe7fe0.chunk.css",
+    "main.js": "/mhdalmasri/ToDoList-with-redux/static/js/main.658f8a81.chunk.js",
+    "main.js.map": "/mhdalmasri/ToDoList-with-redux/static/js/main.658f8a81.chunk.js.map",
+    "runtime~main.js": "/mhdalmasri/ToDoList-with-redux/static/js/runtime~main.d8ba7e20.js",
+    "runtime~main.js.map": "/mhdalmasri/ToDoList-with-redux/static/js/runtime~main.d8ba7e20.js.map",
+    "static/css/2.206f6df0.chunk.css": "/mhdalmasri/ToDoList-with-redux/static/css/2.206f6df0.chunk.css",
+    "static/js/2.cbd500bf.chunk.js": "/mhdalmasri/ToDoList-with-redux/static/js/2.cbd500bf.chunk.js",
+    "static/js/2.cbd500bf.chunk.js.map": "/mhdalmasri/ToDoList-with-redux/static/js/2.cbd500bf.chunk.js.map",
+    "index.html": "/mhdalmasri/ToDoList-with-redux/index.html",
+    "precache-manifest.2a5a8ac7509687612a75cb8f6b435827.js": "/mhdalmasri/ToDoList-with-redux/precache-manifest.2a5a8ac7509687612a75cb8f6b435827.js",
+    "service-worker.js": "/mhdalmasri/ToDoList-with-redux/service-worker.js",
+    "static/css/2.206f6df0.chunk.css.map": "/mhdalmasri/ToDoList-with-redux/static/css/2.206f6df0.chunk.css.map",
+    "static/css/main.2abe7fe0.chunk.css.map": "/mhdalmasri/ToDoList-with-redux/static/css/main.2abe7fe0.chunk.css.map",
+    "static/media/all.css": "/mhdalmasri/ToDoList-with-redux/static/media/fa-solid-900.f14c3b2f.ttf"
+  }
+}
