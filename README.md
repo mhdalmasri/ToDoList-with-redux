@@ -31,4 +31,4 @@ npm start
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/mhdalmasri/ToDoList-with-redux/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/mhdalmasri/ToDoList-with-redux/blob/setup/LICENSE) file for details
